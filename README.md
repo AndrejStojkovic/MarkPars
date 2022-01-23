@@ -10,5 +10,5 @@
 - Made in React (use 'npm start' to start the project)
 - Missing Export and Help functions 
 
-# Preview
+## Preview
 ![Preview1](src/images/preview.png 'Preview 1')
