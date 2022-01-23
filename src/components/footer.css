@@ -1,0 +1,21 @@
+footer {
+	text-align: center;
+	padding: 15px 0;
+	color: white;
+	background-color: #6e248d;
+	border-top: 3px solid rgba(0,0,0,.2);
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.link {
+	color: 	#c36aff;
+	text-decoration: none;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #b74bff59;
+}
+
+.link:hover {
+	color: #d79bff;
+}
