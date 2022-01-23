@@ -5,7 +5,8 @@
     A website that allows you to write and parse Markdown code.
   </p>
 </p>
-
+  
+## Introduction
 - Made in React (use 'npm start' to start the project)
 - Missing Export and Help functions 
 
