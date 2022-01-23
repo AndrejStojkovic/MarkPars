@@ -2,6 +2,9 @@
   <img src="src/images/logo.png" alt="Logo">
 
   <p align="center">
-    A Website that allows you to write and parse Markdown code.
+    A website that allows you to write and parse Markdown code.
   </p>
 </p>
+
+# Preview
+![Preview1](src/images/preview1.png 'Preview 1')
