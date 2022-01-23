@@ -7,4 +7,4 @@
 </p>
 
 # Preview
-![Preview1](src/images/preview1.png 'Preview 1')
+![Preview1](src/images/preview.png 'Preview 1')
