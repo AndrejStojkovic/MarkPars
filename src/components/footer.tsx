@@ -8,7 +8,7 @@ const Footer = () => {
 				<a className='link' href='https://github.com/AndrejStojkovic'>Andrej Stojkovikj</a>
 			</div>
 			<div>
-				<a className='link git' href='https://github.com/AndrejStojkovic'>GitHub Repository</a>
+				<a className='link git' href='https://github.com/AndrejStojkovic/MarkPars'>GitHub Repository</a>
 			</div>
 		</footer>
 	);
