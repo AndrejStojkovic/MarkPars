@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/images/logo.png" alt="Logo" style="height: 50%">
+  <img src="src/images/logo.png" alt="Logo" style="width: 40%">
 
   <p align="center">
     A website that allows you to write and parse Markdown code.
